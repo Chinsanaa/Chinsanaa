@@ -48,16 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chinsanaa&show_icons=true&theme=tokyonight" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinsanaa&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
