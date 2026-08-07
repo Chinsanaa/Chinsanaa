@@ -22,7 +22,7 @@
 
 📈 Worked in sales analysis, HR operations, retail management, and social media marketing.
 
-🏀 Sports enthusiast who enjoys basketball, boxing, running, volleyball, and soccer.
+🏀 Sports enjoyer who plays basketball, boxing, running, volleyball, and soccer.
 
 ---
 
